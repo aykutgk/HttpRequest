@@ -37,5 +37,9 @@
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
 	</dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Get user&apos;s current location when in use</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Get user&apos;s current location always</string>
 </dict>
 </plist>
